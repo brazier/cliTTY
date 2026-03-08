@@ -1,9 +1,9 @@
 # cliTTY
 
-<img width="642" height="644" alt="clitty-icon-3" src="https://github.com/user-attachments/assets/762a9611-6ea4-4f55-bc24-e9e8593fe76d" />
+<p align="center"><img width="642" height="644" alt="clitty-icon-3" src="https://github.com/user-attachments/assets/762a9611-6ea4-4f55-bc24-e9e8593fe76d" /></p>
 
-[!CAUTION]
-Make sure to read (#security-considerations){Security Considerations] before you start using this.
+> [!CAUTION]
+> Make sure to read [Security Considerations](#security-considerations) before you start using this.
 
 Terminal-based SSH manager with a TUI. Manage hosts, credentials, SSH keys, and connection profiles. In no way a fork of putty and kitty, but made in their image. Connects via embedded terminal or subprocess SSH/SFTP.
 <img width="1920" height="1050" alt="swappy-20260308_155734" src="https://github.com/user-attachments/assets/8409d08e-54a3-48f3-a688-1cdb2b818e53" />
