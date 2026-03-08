@@ -5,7 +5,8 @@
 > [!CAUTION]
 > Make sure to read [Security Considerations](#security-considerations) before you start using this.
 
-Terminal-based SSH manager with a TUI. Manage hosts, credentials, SSH keys, and connection profiles. In no way a fork of putty and kitty, but made in their image. Connects via embedded terminal or subprocess SSH/SFTP.
+Terminal-based SSH manager with a TUI. Manage hosts, credentials, SSH keys, and connection profiles. In no way a fork of putty and kitty, but made in their image. Connects via embedded terminal or subprocess SSH/SFTP. Thoroughly tested by 1 subject, does not run well under windows(missing sshpass) but runs well under WSL and has the option to detect it and spawn winows terminals.
+
 <img width="1920" height="1050" alt="swappy-20260308_155734" src="https://github.com/user-attachments/assets/8409d08e-54a3-48f3-a688-1cdb2b818e53" />
 
 ## Features
