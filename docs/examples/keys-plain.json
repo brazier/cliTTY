@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "label": "GitHub",
+      "username": "git",
+      "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW\nQyNTUxOQAAACAc4BAF9f9kakC23rbWDnpT+aFGeSHnHF73WUQQ1ibVqgAAAJAMei1eDHot\nXgAAAAtzc2gtZWQyNTUxOQAAACAc4BAF9f9kakC23rbWDnpT+aFGeSHnHF73WUQQ1ibVqg\nAAAEAKJohhpKcVKsuj0EOigSvggFIOgcmTDhFQxsVDXrgTXhzgEAX1/2RqQLbettYOelP5\noUZ5IeccXvdZRBDWJtWqAAAAB2V4YW1wbGUBAgMEBQY=\n-----END OPENSSH PRIVATE KEY-----\n",
+      "passphrase": "",
+      "prompt_passphrase": 0
+    },
+    {
+      "label": "Work server",
+      "username": "admin",
+      "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEA8W70ZiLn72Hli13QF5MDotTIKhWyw+gYpLVtMUurqtq7SS8Q\nNPra5qQPIemWRRXph/kuiQ51Imf8IDZyJxs655fSOYveFUrx80pCNro6vV0z02Z7\n0nYPUt0nTp9GXmTXWI6OFBTazitwdngJfSoNhXe99c+vbpVR9NZPEOeYoaGMfJVW\n8dM7zn/lhViYwscjxTeeEJLWq4O6aT+Br4OVDKHT3vnQLoDCtlc9O0Fib6JFcnOe\nvtZ0cb1wfEQtSn4lRWpssMOVhgK0gIRA75Eir9yrDh+6hIyzefsA2iFyBUcwF08C\nYfXjXpG143yR5UQy27+RrrdhLtPDaR0AZiZe6QIDAQABAoIBAAs6DRxYwC9F/p4R\n8TS/bdpbCanHU4Y/mzHBi//QVH2/6RiYmyjTh21VMKzzhzzULYVYpXzTEshUTImU\n7o75+a2+RhTN97hGwWR+TgDsfQHEPT411EkvmzvPs924k1WdW9Qu4NV3OMuAgpzH\nrS1IUNOlg0xUaYR7ZhG8C3YuRs8xNE6LN3JSGqa0Oh+Qm0q0d3g1oy9gvRMiGGl4\n9JCXds/VVKg8Qxt9632P/Yad9x9l0M3MUgOYe5VVFmJn8+9dkoGCwpgqRFbhIphA\nbe/6L8/TXDj/q0Ez7hbttb2k2b1EpTDteagRiVwDYhdlR7/EF4Gg7Uje+pyeeRtR\nMG7p1N8CgYEA/W3+97ty6oZWeOm6IK882Iq8xTqVNtwzlXgF5x8sXpXh6p+MhcJ1\nSqEig6qhJRCs0VUF+WWg4aalT91h1leliJ/MAG9hTDqNi4ukjQpYObbERYehA4Pr\n74G0UtOwf6tFQU54+1WxI5qsC6NWIYnjvkDG9XvRD51I85vQCaa89AsCgYEA8+HP\nyfo5wyoZT2Ro2FFjDLcW+dkQMWX1ar5JxXGNESQ0VykWvRCwXnab/93eIUiI/Qfe\n+2q5ZsqIrHHUfhFBNPAbfrNN1MUYt2+EP8+J/a3Fm3eisGCAkVPmBRCZEWw+9u08\nzGjzMB2M3WKaLuocmZcc0qZhzg2boqr135ifPVsCgYBMczQpE1j1OpU3YHqPhY17\nXU7YyHVe2UqOWmidch/2YIyINJ01dJXhb35z7bMy9TbM5zMoKuo/aAASeZwcBtCe\nyGXH89GMJ1WvtO5sxaQbtPC8cM+3ucIgvCXjnoxt1wLLUprYZt9K+EvSLvG6qFgV\neoEKaNGGPlJVerllT/FMRQKBgBnfxjTOiFxNVhwXMgxpLhIGRrjBL7ed8pidkaQR\n9P5xkeABavkqERwkh05xEoUDdg0qTZzs6LigGjn5ZaruV7WvF6usiEBfnMyxVx2R\n/jjcu89PtQHzaxCADzJQXXz8t/1ok/+3zr03FV/Tezoo+lnNL3Cl2FCNHwr2Clnr\njlFrAoGBANLu96zRmiC8Z1e6jn1b2TZ/O3FDppWhNHW8wwH28dJ86PFHiEM+XMif\nKBQAoKpWnfyOQqZqITNiLYH1hqqT0OTDlkfNPxDborltluIin+stEtDZjT8qxIIA\nQQ6MN0WFoA1Pg3MJJu7l/W3Lp204wUk36ycedviX94d+1+POUUwV\n-----END RSA PRIVATE KEY-----\n",
+      "passphrase": "",
+      "prompt_passphrase": 1
+    }
+  ]
+}

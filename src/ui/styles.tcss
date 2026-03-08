@@ -1,0 +1,115 @@
+Screen {
+    background: $surface;
+}
+
+#title-bar {
+    dock: top;
+    height: 1;
+    background: $primary;
+    color: $text;
+    text-align: center;
+    text-style: bold;
+}
+
+#nav-bar {
+    dock: top;
+    height: 1;
+    background: $primary-darken-2;
+    color: $text-muted;
+}
+
+#search-box {
+    dock: top;
+    height: 3;
+    padding: 0 1;
+}
+
+#search-input {
+    width: 100%;
+}
+
+DataTable {
+    height: 1fr;
+}
+
+DataTable > .datatable--cursor {
+    background: $accent;
+    color: $text;
+}
+
+#footer-bar {
+    dock: bottom;
+    height: 1;
+    background: $primary-darken-2;
+    color: $text-muted;
+    padding: 0 1;
+}
+
+.form-container {
+    width: 80%;
+    max-width: 100;
+    min-width: 60;
+    height: auto;
+    max-height: 90%;
+    overflow-y: auto;
+    border: thick $primary;
+    background: $surface;
+    padding: 1 2;
+}
+
+.form-container Input {
+    margin-bottom: 1;
+}
+
+.form-container Label {
+    margin-top: 1;
+}
+
+.form-container Button {
+    margin-top: 1;
+    width: 100%;
+}
+
+/* Override: row action buttons (e.g. port forward X) must stay small */
+.form-container .forward-row Button {
+    width: 5;
+    min-width: 5;
+    margin-top: 0;
+}
+
+.dialog-container {
+    align: center middle;
+}
+
+#profile-select-list {
+    height: auto;
+    max-height: 20;
+    min-height: 5;
+    border: thick $primary;
+    background: $surface;
+    padding: 1;
+}
+
+.settings-grid {
+    grid-size: 2;
+    grid-gutter: 1;
+    padding: 1 2;
+    height: auto;
+}
+
+.settings-grid Label {
+    width: 100%;
+    content-align: right middle;
+}
+
+.settings-grid Input, .settings-grid Select {
+    width: 100%;
+}
+
+#status-bar {
+    dock: bottom;
+    height: 1;
+    background: $accent;
+    color: $text;
+    padding: 0 1;
+}

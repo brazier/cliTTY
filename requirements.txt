@@ -1,0 +1,5 @@
+# Clitty – SSH/SFTP host manager TUI
+textual>=0.80.0
+cryptography>=43.0.0
+paramiko>=3.4.0
+textual-terminal>=0.3.0
