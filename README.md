@@ -55,6 +55,7 @@ This installs to `/opt/clitty`, creates a virtualenv, installs dependencies, and
 ### Windows
 > [!NOTE]
 > General use under Windows is not recomended, run under [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) instead and follow the General or Linux install methods.
+> The following is provided for testing.
 
 Run from a Command Prompt or PowerShell in the project root:
 
