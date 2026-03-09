@@ -20,14 +20,27 @@ Terminal-based SSH manager with a TUI. Manage hosts, credentials, SSH keys, and 
 
 ## Requirements
 
-- Python 3 with `venv`
+- Python 3 with `venv` (and `cryptography`, `textual`, `textual-terminal`, `paramiko` installed via install -r requrements.txt)
 - OpenSSH client (`ssh`, `sftp`)
 - `sshpass`
-- `cryptography`, `textual`, `textual-terminal`, `paramiko`)
 
 ---
 
 ## Installation
+
+### General manual install
+
+```bash
+mkdir clitty
+tar -xvzf clitty-0.8.0.tar.gz -C clitty
+cd clitty
+python3 -m venv .venv
+.venv/bin/activate
+pip install -r requirements.txt
+./main.py
+```
+You can then option to change the file install/clitty-run to this dir and then copy that file to somewhere in PATH
+
 
 ### Linux (system-wide)
 
