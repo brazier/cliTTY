@@ -53,6 +53,8 @@ sudo bash install/clitty-install.sh
 This installs to `/opt/clitty`, creates a virtualenv, installs dependencies, and adds `clitty` to `/usr/local/bin`. Supported: Debian/Ubuntu, Fedora/RHEL, Arch, Alpine.
 
 ### Windows
+> [!NOTE]
+> General use under Windows is not recomended, run under [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) instead and follow the General or Linux install methods.
 
 Run from a Command Prompt or PowerShell in the project root:
 
