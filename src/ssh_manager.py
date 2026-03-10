@@ -537,7 +537,10 @@ def _apply_host_proxy_override(opts: ProfileOpts, host_id: Optional[int]) -> Pro
     if host_id is None:
         return opts
     host = db.get_host(host_id)
-    if not host or not host.get("data"):
+    if not host:
+        return opts
+    host = dict(host)
+    if not host.get("data"):
         return opts
     try:
         raw = host["data"]
